@@ -1,0 +1,46 @@
+{
+    "donates": [
+        {
+            "id": 1,
+            "title": "Pó de café",
+            "description": "Me manterá acordado por mais uma hora",
+            "price": 2
+        },
+        {
+            "id": 2,
+            "title": "Pacote de pó de café",
+            "description": "Me manterá acordado por mais duas hora e meia",
+            "price": 5
+        },
+        {
+            "id": 3,
+            "title": "Pacote de café arábica",
+            "description": "Me manterá acordado por mais duas horas e vivo por uns 3 anos amais",
+            "price": 10
+        },
+        {
+            "id": 4,
+            "title": "Pó de café arábica double pack",
+            "description": "Me manterá acordado por mais duas horas e vivo por uns 6 anos amais",
+            "price": 20
+        },
+        {
+            "id": 5,
+            "title": "O melhor dos melhores cafés do universo ao infinito e além vezes 10",
+            "description": "Ele existe mesmo, pode procurar.",
+            "price": 50
+        },
+        {
+            "id": 6,
+            "title": "O melhor dos melhores cafés do universo ao infinito e além vezes 10 double pack",
+            "description": "Quer que eu passe a vida inteira programando pra você? BELEZA MEU QUERIDO(A)",
+            "price": 100
+        },
+        {
+            "id": 7,
+            "title": "Doação editável",
+            "description": "Muito obrigado pela donate <3. O café ta ficando caro.",
+            "price": 0
+        }
+    ]
+}
