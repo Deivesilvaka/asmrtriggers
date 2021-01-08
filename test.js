@@ -5,6 +5,7 @@ const { saveDB, loadDB } = require("./src/database/editDatabase")
 const { load } = require("./src/keywords/keyswords")
 const { cluster } = require("fetchyt")
 
+
 async function findNewContentes() {
 
   async function loadVideos(content, contentArray) {
