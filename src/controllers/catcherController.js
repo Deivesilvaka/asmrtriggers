@@ -1,6 +1,6 @@
 "use strict"
 
-const { cluster } = require("fetchyt")
+const { cluster, yts } = require("fetchyt")
 const { load } = require("../keywords/keyswords")
 const { loadDB } = require("../database/editDatabase")
 const deleteDuplicateItems = require("./deleteDuplicate")
@@ -9,7 +9,7 @@ async function loadVideos(content, contentArray) {
     const newMap = []
     const indexArray = []
 
-    for(let i = 0; i <= 15; i++){
+    for(let i = 0; i <= 20; i++){
         indexArray.push(Math.floor(Math.random() * contentArray.length))
     }
 
@@ -34,15 +34,12 @@ module.exports = {
     },
 
     async catchSpecificVideo(req, res) {
+
         const {content} = req.query
 
-        const Array = await load()
-        const contentArray = Array["specific"]
-        const newMap = await loadVideos(content, contentArray)
+        const contentData = await yts(`asmr ${content}`)
 
-        const withouDuplicateideos = deleteDuplicateItems(newMap)
-
-        return res.json(withouDuplicateideos)
+        return res.json(contentData)
     },
 
     async recomendacoes(req, res) {

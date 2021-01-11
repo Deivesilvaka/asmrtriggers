@@ -10,7 +10,7 @@ const findNewContentes = require("./src/controllers/crawler")
 
 setInterval(async() => {
     await findNewContentes()
-}, 40000)
+}, 50000)
 
 app.use(cors())
 app.use(express.static('public'))
