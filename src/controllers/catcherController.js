@@ -43,7 +43,7 @@ module.exports = {
         //Load Balancer ( remove ilegal contents )
         const familyFriendlyContent = await loadBalancer(contentData)
 
-        return res.json(familyFriendlyContent)
+        return res.json(contentData)
     },
 
     async recomendacoes(req, res) {
