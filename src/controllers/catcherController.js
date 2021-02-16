@@ -4,6 +4,7 @@ const { cluster, yts } = require("fetchyt")
 const { load } = require("../keywords/keyswords")
 const { loadDB } = require("../database/editDatabase")
 const deleteDuplicateItems = require("./deleteDuplicate")
+const loadBalancer = require('../functions/loadBalancer')
 
 async function loadVideos(content, contentArray) {
     const newMap = []
@@ -39,7 +40,10 @@ module.exports = {
 
         const contentData = await yts(`asmr ${content}`)
 
-        return res.json(contentData)
+        //Load Balancer ( remove ilegal contents )
+        const familyFriendlyContent = await loadBalancer(contentData)
+
+        return res.json(familyFriendlyContent)
     },
 
     async recomendacoes(req, res) {

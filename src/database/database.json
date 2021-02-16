@@ -1,24 +1,31 @@
 {
   "tapping": [
     {
-      "asmrtappingteclado": {
-        "href": "https://youtube.com/watch?v=Tn8IDh21AVY",
-        "thumbnail": "https://i.ytimg.com/vi/Tn8IDh21AVY/hq720.jpg",
-        "title": "ASMR 15 Keyboards with Fast Typing for Studying & Works🌞(4K, No Talking)"
+      "asmrtappingpente": {
+        "href": "https://youtube.com/watch?v=q4u15EEsOv4",
+        "thumbnail": "https://i.ytimg.com/vi/q4u15EEsOv4/hq720.jpg",
+        "title": "ASMR - SONS DE PENTE (SUSSURROS E TAPPING) Enaque ASMR"
       }
     },
     {
-      "asmrtappingunboxing": {
-        "href": "https://youtube.com/watch?v=wl9vWmhsg-A",
-        "thumbnail": "https://i.ytimg.com/vi/wl9vWmhsg-A/hq720.jpg",
-        "title": "Tapping on all Apple Products *ASMR"
+      "asmrtappingescova": {
+        "href": "https://youtube.com/watch?v=Ky7W0uAm0e4",
+        "thumbnail": "https://i.ytimg.com/vi/Ky7W0uAm0e4/hqdefault.jpg",
+        "title": "ASMR: SUSSURROS E TAPPING NA ESCOVA / WHISPERS AND TAPPING - Naiane"
       }
     },
     {
-      "asmrtappingmesa": {
+      "asmrtapping": {
         "href": "https://youtube.com/watch?v=sIgkTYTWPz8",
         "thumbnail": "https://i.ytimg.com/vi/sIgkTYTWPz8/hq720.jpg",
         "title": "ASMR Addictive Tapping 1 Hr (No Talking)"
+      }
+    },
+    {
+      "asmrtappingescovadecabelo": {
+        "href": "https://youtube.com/watch?v=L9Rp1OIj-eI",
+        "thumbnail": "https://i.ytimg.com/vi/L9Rp1OIj-eI/hq720.jpg",
+        "title": "ASMR Sussurro Tapping Escova de Cabelo e Pincel"
       }
     },
     {
@@ -29,6 +36,20 @@
       }
     },
     {
+      "asmrtappingunboxing": {
+        "href": "https://youtube.com/watch?v=wl9vWmhsg-A",
+        "thumbnail": "https://i.ytimg.com/vi/wl9vWmhsg-A/hq720.jpg",
+        "title": "Tapping on all Apple Products *ASMR"
+      }
+    },
+    {
+      "asmrtappingmadeira": {
+        "href": "https://youtube.com/watch?v=kjoJZXj4iRQ",
+        "thumbnail": "https://i.ytimg.com/vi/kjoJZXj4iRQ/hqdefault.jpg",
+        "title": "ASMR: TAPPING DELICADO EM OBJETOS DE MADEIRA, RELAXE E DURMA TRANQUILAMENTE"
+      }
+    },
+    {
       "asmrtappingcontrole": {
         "href": "https://youtube.com/watch?v=BLkApor-jvM",
         "thumbnail": "https://i.ytimg.com/vi/BLkApor-jvM/hq720.jpg",
@@ -36,40 +57,26 @@
       }
     },
     {
-      "asmrtappingescova": {
-        "href": "https://youtube.com/watch?v=Ky7W0uAm0e4",
-        "thumbnail": "https://i.ytimg.com/vi/Ky7W0uAm0e4/hqdefault.jpg",
-        "title": "ASMR: SUSSURROS E TAPPING NA ESCOVA / WHISPERS AND TAPPING - Naiane"
+      "asmrtappingnaguitarra": {
+        "href": "https://youtube.com/watch?v=M-CVS0ErqfQ",
+        "thumbnail": "https://i.ytimg.com/vi/M-CVS0ErqfQ/hqdefault.jpg",
+        "title": "ASMR TAPPING GUITAR MOUTH SOUND SLIDE GUITAR 🎸 💓👄"
       }
     }
   ],
   "scratching": [
     {
-      "asmrscratchingcabeça": {
-        "href": "https://youtube.com/watch?v=Ngzoc5XezwM",
-        "thumbnail": "https://i.ytimg.com/vi/Ngzoc5XezwM/hqdefault.jpg",
-        "title": "ASMR YOU CAN FEEL!! *BINAURAL SCRATCHING* Nape of the Neck UP the Scalp + Upper Back SCRATCHING!!"
+      "asmrscratchingtravesseiro": {
+        "href": "https://youtube.com/watch?v=XV-xCatm4j8",
+        "thumbnail": "https://i.ytimg.com/vi/XV-xCatm4j8/hq720.jpg",
+        "title": "ASMR Pure Scratching 💤(NO TALKING) Intense & Slow Cork, Vinyl, Cardboard, Plastic & Fabric Scratches"
       }
     },
     {
-      "asmrscratchingescovadecabelo": {
-        "href": "https://youtube.com/watch?v=lOZhvj54ex8",
-        "thumbnail": "https://i.ytimg.com/vi/lOZhvj54ex8/hq720.jpg",
-        "title": "ASMR Hairbrush - Tapping and Scratching Tangle Teezer"
-      }
-    },
-    {
-      "asmrscratchingroupa": {
-        "href": "https://youtube.com/watch?v=QwNxAGOBnWY",
-        "thumbnail": "https://i.ytimg.com/vi/QwNxAGOBnWY/hq2.jpg",
-        "title": "ASMR: jeans scratching / arranhando minhas roupas 💤"
-      }
-    },
-    {
-      "asmrscratchingobjetosaleatórios": {
-        "href": "https://youtube.com/watch?v=9GjnJnCjaL0",
-        "thumbnail": "https://i.ytimg.com/vi/9GjnJnCjaL0/hq720.jpg",
-        "title": "[ASMR PORTUGUÊS] Objetos Aleatórios: Tapping & Scratching (Different Objects)"
+      "asmrscratching": {
+        "href": "https://youtube.com/watch?v=uVTxzNKRf7Y",
+        "thumbnail": "https://i.ytimg.com/vi/uVTxzNKRf7Y/hq720.jpg",
+        "title": "ASMR | Tingly Intense Scratching for Sleep ♡"
       }
     },
     {
@@ -78,14 +85,42 @@
         "thumbnail": "https://i.ytimg.com/vi/MD4BKc3ptBI/hq720.jpg",
         "title": "ASMR Real Person Scalp check + Scratching + Super Sensitive Head Massage / Tingles are GUARANTEED"
       }
+    },
+    {
+      "asmrscratchingroupa": {
+        "href": "https://youtube.com/watch?v=8e2Poej-gxY",
+        "thumbnail": "https://i.ytimg.com/vi/8e2Poej-gxY/hq2.jpg",
+        "title": "ASMR Aggressive jeans shorts and belt scratching"
+      }
+    },
+    {
+      "asmrscratchingcomputador": {
+        "href": "https://youtube.com/watch?v=JbIAeobj358",
+        "thumbnail": "https://i.ytimg.com/vi/JbIAeobj358/hq720.jpg",
+        "title": "Extremely FAST Scratching on a Laptop Computer | YamASMR"
+      }
+    },
+    {
+      "asmrscratchingobjetosaleatórios": {
+        "href": "https://youtube.com/watch?v=nk1BH96hBhM",
+        "thumbnail": "https://i.ytimg.com/vi/nk1BH96hBhM/hq720.jpg",
+        "title": "ASMR: Scratching em objetos aleatórios"
+      }
+    },
+    {
+      "asmrscratchingpente": {
+        "href": "https://youtube.com/watch?v=FUExET5o0_o",
+        "thumbnail": "https://i.ytimg.com/vi/FUExET5o0_o/hq720.jpg",
+        "title": "ASMR: SCRATCHING MICROPHONE AND BRUSHING"
+      }
     }
   ],
   "comendo": [
     {
-      "asmrcomendodoces": {
-        "href": "https://youtube.com/watch?v=avQXf67rqrg",
-        "thumbnail": "https://i.ytimg.com/vi/avQXf67rqrg/hq720.jpg",
-        "title": "ASMR COMENDO DOCES *sons de boca e mastigação*"
+      "asmrcomendosanduiche": {
+        "href": "https://youtube.com/watch?v=Ko7izIn3riA",
+        "thumbnail": "https://i.ytimg.com/vi/Ko7izIn3riA/hq720.jpg",
+        "title": "ASMR TRIPLE WESTERN BACON BURGER & FRIES MUKBANG (No Talking) EATING SOUNDS | Zach Choi ASMR"
       }
     },
     {
@@ -96,82 +131,61 @@
       }
     },
     {
-      "asmrcomendopizza": {
-        "href": "https://youtube.com/watch?v=LW6TIxxayAU",
-        "thumbnail": "https://i.ytimg.com/vi/LW6TIxxayAU/hq720.jpg",
-        "title": "ASMR: COMENDO PIZZA!"
-      }
-    },
-    {
-      "asmrcomendomcdonalds": {
-        "href": "https://youtube.com/watch?v=9SOZ_v4IeNU",
-        "thumbnail": "https://i.ytimg.com/vi/9SOZ_v4IeNU/hqdefault.jpg",
-        "title": "ASMR | COMENDO MC DONALDS ♥"
-      }
-    },
-    {
-      "asmrcomendosanduiche": {
-        "href": "https://youtube.com/watch?v=Ko7izIn3riA",
-        "thumbnail": "https://i.ytimg.com/vi/Ko7izIn3riA/hq720.jpg",
-        "title": "ASMR TRIPLE WESTERN BACON BURGER & FRIES MUKBANG (No Talking) EATING SOUNDS | Zach Choi ASMR"
-      }
-    },
-    {
-      "asmrcomendomukbang": {
-        "href": "https://youtube.com/watch?v=OuwPxAp1rvo",
-        "thumbnail": "https://i.ytimg.com/vi/OuwPxAp1rvo/hq720.jpg",
-        "title": "ASMR KFC Chicken MUKBANG 🍖 CRUNCHY EATING SOUNDS"
-      }
-    },
-    {
       "asmrcomendofrutas": {
         "href": "https://youtube.com/watch?v=26fI2tfaG54",
         "thumbnail": "https://i.ytimg.com/vi/26fI2tfaG54/hq720.jpg",
         "title": "ASMR COMENDO FRUTAS EXÓTICAS (Eating sounds)"
       }
+    },
+    {
+      "asmrcomendolegumes": {
+        "href": "https://youtube.com/watch?v=UibJroyd3m8",
+        "thumbnail": "https://i.ytimg.com/vi/UibJroyd3m8/hq720.jpg",
+        "title": "ASMR Veggie Platter (EXTREME CRUNCHY EATING SOUNDS) No Talking | SAS-ASMR"
+      }
+    },
+    {
+      "asmrcomendoburguerking": {
+        "href": "https://youtube.com/watch?v=iH_OGO-mqio",
+        "thumbnail": "https://i.ytimg.com/vi/iH_OGO-mqio/hq720.jpg",
+        "title": "ASMR | COMENDO BURGER KING"
+      }
+    },
+    {
+      "asmrcomendodoces": {
+        "href": "https://youtube.com/watch?v=AUJxmtC68GE",
+        "thumbnail": "https://i.ytimg.com/vi/AUJxmtC68GE/hq720.jpg",
+        "title": "ASMR | COMENDO DOCES - (eating candies)"
+      }
+    },
+    {
+      "asmrcomendomcdonalds": {
+        "href": "https://youtube.com/watch?v=9gRCe_IqEL0",
+        "thumbnail": "https://i.ytimg.com/vi/9gRCe_IqEL0/hq720.jpg",
+        "title": "ASMR MOST POPULAR FOOD at MCDONALDS (Hash Browns, Nuggets, Big Mac, Crispy Chicken Sandwich) MUKBANG"
+      }
     }
   ],
   "sons": [
-    {
-      "asmrsonsdevidro": {
-        "href": "https://youtube.com/watch?v=35YPHp07gVk",
-        "thumbnail": "https://i.ytimg.com/vi/35YPHp07gVk/hqdefault.jpg",
-        "title": "ASMR Português: sons de vidro (binaural)"
-      }
-    },
-    {
-      "asmrsons": {
-        "href": "https://youtube.com/watch?v=OrsMwBHLw-0",
-        "thumbnail": "https://i.ytimg.com/vi/OrsMwBHLw-0/hqdefault.jpg",
-        "title": "ASMR-OS SONS ASMR MAIS RELAXANTES"
-      }
-    },
-    {
-      "asmrsonsdemadeira": {
-        "href": "https://youtube.com/watch?v=sH9LoEjQBmM",
-        "thumbnail": "https://i.ytimg.com/vi/sH9LoEjQBmM/hq720.jpg",
-        "title": "ASMR | Sons De Madeira Para Relaxar 🃏 Asmr Portugal!"
-      }
-    },
-    {
-      "asmrsonsdeplastico": {
-        "href": "https://youtube.com/watch?v=wAo2d5Iq4aY",
-        "thumbnail": "https://i.ytimg.com/vi/wAo2d5Iq4aY/hqdefault.jpg",
-        "title": "ASMR: Sons de plásticos, papéis e tapping (Vídeo para relaxar e dar sono) PORTUGUÊS"
-      }
-    },
-    {
-      "asmrsonsdeboca": {
-        "href": "https://youtube.com/watch?v=0XF6VDmSYCE",
-        "thumbnail": "https://i.ytimg.com/vi/0XF6VDmSYCE/hq720.jpg",
-        "title": "ASMR BINAURAL- SONS DE BOCA SENSÍVEIS E INTENSO"
-      }
-    },
     {
       "asmrsonsagradaveis": {
         "href": "https://youtube.com/watch?v=J9Gajrt0Uk0",
         "thumbnail": "https://i.ytimg.com/vi/J9Gajrt0Uk0/hq720.jpg",
         "title": "3 SONS que te farão DORMIR em MINUTOS - ASMR PORTUGUÊS"
+      }
+    },
+    {
+      "asmrsonsdevidro": {
+        "href": "https://youtube.com/watch?v=RmUmqnt9X1Y",
+        "thumbnail": "https://i.ytimg.com/vi/RmUmqnt9X1Y/hq720.jpg",
+        "title": "RELAXAMENTO INSTANTÂNEO COM SONS DE VIDRO | GLASS ASMR"
+      }
+    },
+    {
+      "asmrsonsdemadeira": {
+        "href": "https://youtube.com/watch?v=cF9T7356Uvw",
+        "thumbnail": "https://i.ytimg.com/vi/cF9T7356Uvw/hq720.jpg",
+        "title": "ASMR Sons de madeira para relaxar e dormir 🌳 (SEM FALA E ANÚNCIOS)"
       }
     },
     {
@@ -183,39 +197,25 @@
     },
     {
       "asmrsonsdechuva": {
-        "href": "https://youtube.com/watch?v=j23U-_EFoVE",
-        "thumbnail": "https://i.ytimg.com/vi/j23U-_EFoVE/hq720.jpg",
-        "title": "Som de Chuva para Dormir e Relaxar 🌧 8 HORAS 🌧 Tela Preta"
+        "href": "https://youtube.com/watch?v=DsBdyMT8KOE",
+        "thumbnail": "https://i.ytimg.com/vi/DsBdyMT8KOE/hq720.jpg",
+        "title": "Som de Chuva e Trovoadas na Barraca para Dormir, Mente Relaxante, Sono Profundo, ASMR"
+      }
+    },
+    {
+      "asmrsonsdeplastico": {
+        "href": "https://youtube.com/watch?v=wAo2d5Iq4aY",
+        "thumbnail": "https://i.ytimg.com/vi/wAo2d5Iq4aY/hqdefault.jpg",
+        "title": "ASMR: Sons de plásticos, papéis e tapping (Vídeo para relaxar e dar sono) PORTUGUÊS"
       }
     }
   ],
   "roleplay": [
     {
-      "asmrroleplaynamorada": {
-        "href": "https://youtube.com/watch?v=8nJVXKvQJek",
-        "thumbnail": "https://i.ytimg.com/vi/8nJVXKvQJek/hqdefault.jpg",
-        "title": "A primeira vez (+18) | ASMR ROLEPLAY NAMORADA | Além das Estrelas #6"
-      }
-    },
-    {
-      "asmrroleplaypadeiro": {
-        "href": "https://youtube.com/watch?v=W2Y1o00FcOM",
-        "thumbnail": "https://i.ytimg.com/vi/W2Y1o00FcOM/hqdefault.jpg",
-        "title": "ASMR: Roleplay padaria - Vídeo com sons relaxantes!"
-      }
-    },
-    {
-      "asmrroleplaypsicologo": {
-        "href": "https://youtube.com/watch?v=ZqhPbuvFg1o",
-        "thumbnail": "https://i.ytimg.com/vi/ZqhPbuvFg1o/hq720.jpg",
-        "title": "ASMR ROLEPLAY PSYCHOLOGIST"
-      }
-    },
-    {
-      "asmrroleplaymanicure": {
-        "href": "https://youtube.com/watch?v=WPuZlApFygQ",
-        "thumbnail": "https://i.ytimg.com/vi/WPuZlApFygQ/hq720.jpg",
-        "title": "ASMR Acrylic Manicure Roleplay"
+      "asmrroleplay": {
+        "href": "https://youtube.com/watch?v=ZVP0F49bUwg",
+        "thumbnail": "https://i.ytimg.com/vi/ZVP0F49bUwg/hq720.jpg",
+        "title": "ASMR - Soothing Face Exam Roleplay"
       }
     },
     {
@@ -226,26 +226,54 @@
       }
     },
     {
-      "asmrroleplay": {
-        "href": "https://youtube.com/watch?v=lfQwrNymoCg",
-        "thumbnail": "https://i.ytimg.com/vi/lfQwrNymoCg/hqdefault.jpg",
-        "title": "ASMR ALIEN Ear Exam Ear Cleaning Hearing Test Roleplay 👂 Medical Otoscope, Tuning Fork, Soft Spoken"
+      "asmrroleplaydentista": {
+        "href": "https://youtube.com/watch?v=04r41s6M39w",
+        "thumbnail": "https://i.ytimg.com/vi/04r41s6M39w/hq720.jpg",
+        "title": "ASMR ROLEPLAY DENTIST - Relaxing video"
       }
     },
     {
-      "asmrroleplayexnamorada": {
-        "href": "https://youtube.com/watch?v=amweWh4Oymc",
-        "thumbnail": "https://i.ytimg.com/vi/amweWh4Oymc/hq720.jpg",
-        "title": "Psychopath Ex-girlfriend | Roleplay ASMR (English Subtitle)"
+      "asmrroleplaypsicologo": {
+        "href": "https://youtube.com/watch?v=ZqhPbuvFg1o",
+        "thumbnail": "https://i.ytimg.com/vi/ZqhPbuvFg1o/hq720.jpg",
+        "title": "ASMR ROLEPLAY PSYCHOLOGIST"
+      }
+    },
+    {
+      "asmrroleplaypadeiro": {
+        "href": "https://youtube.com/watch?v=W2Y1o00FcOM",
+        "thumbnail": "https://i.ytimg.com/vi/W2Y1o00FcOM/hqdefault.jpg",
+        "title": "ASMR: Roleplay padaria - Vídeo com sons relaxantes!"
+      }
+    },
+    {
+      "asmrroleplaymanicure": {
+        "href": "https://youtube.com/watch?v=0QaMgWpJi1U",
+        "thumbnail": "https://i.ytimg.com/vi/0QaMgWpJi1U/hq720.jpg",
+        "title": "ASMR Fazendo suas UNHAS Roleplay Manicure #Sussurros"
+      }
+    },
+    {
+      "asmrroleplayexnamorado": {
+        "href": "https://youtube.com/watch?v=AydY4UpJpoM",
+        "thumbnail": "https://i.ytimg.com/vi/AydY4UpJpoM/hqdefault.jpg",
+        "title": "[ASMR] Ex-Namorado [PT-BR]"
+      }
+    },
+    {
+      "asmrroleplaynamorada": {
+        "href": "https://youtube.com/watch?v=OXN9BfjzGrI",
+        "thumbnail": "https://i.ytimg.com/vi/OXN9BfjzGrI/hq720.jpg",
+        "title": "ASMR Namorada Ciumenta Roleplay Girlfriend 💕 Little Cat"
       }
     }
   ],
   "animais": [
     {
-      "asmranimaisgato": {
-        "href": "https://youtube.com/watch?v=lk-Br9AVVXU",
-        "thumbnail": "https://i.ytimg.com/vi/lk-Br9AVVXU/hq720.jpg",
-        "title": "Kitten eating Sausage ASMR"
+      "asmranimaiscachorro": {
+        "href": "https://youtube.com/watch?v=IKhYS2MVDFg",
+        "thumbnail": "https://i.ytimg.com/vi/IKhYS2MVDFg/hq720.jpg",
+        "title": "ASMR COM OS MEUS CACHORROS"
       }
     },
     {
@@ -256,56 +284,28 @@
       }
     },
     {
+      "asmranimaisgato": {
+        "href": "https://youtube.com/watch?v=-MGxPJLnfW0",
+        "thumbnail": "https://i.ytimg.com/vi/-MGxPJLnfW0/hq720.jpg",
+        "title": "Cat doing ASMR! Purring & ear licking sound [suna asmr]"
+      }
+    },
+    {
+      "asmranimaisfurão": {
+        "href": "https://youtube.com/watch?v=gWrBVR00cHM",
+        "thumbnail": "https://i.ytimg.com/vi/gWrBVR00cHM/hq720.jpg",
+        "title": "ASMR Ferret Kisses | Brushing | Sniffing"
+      }
+    },
+    {
       "asmranimaistartaruga": {
         "href": "https://youtube.com/watch?v=zRYtQsowie0",
-        "thumbnail": "https://i.ytimg.com/vi/zRYtQsowie0/hqdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/zRYtQsowie0/hq720.jpg",
         "title": "👍 Tortoise Eating LIKE Button ASMR Turtle 🐢41 | Animal ASMR"
-      }
-    },
-    {
-      "asmranimaisramster": {
-        "href": "https://youtube.com/watch?v=8K0Hveoq1Pc",
-        "thumbnail": "https://i.ytimg.com/vi/8K0Hveoq1Pc/hq720.jpg",
-        "title": "HAMSTER EATING CARROT ASMR [1] Animal ASMR"
-      }
-    },
-    {
-      "asmranimaiscachorro": {
-        "href": "https://youtube.com/watch?v=GI4iAcTA9KY",
-        "thumbnail": "https://i.ytimg.com/vi/GI4iAcTA9KY/hq720.jpg",
-        "title": "ASMR Husky Reviewing Raw Beef Meat Parts!"
       }
     }
   ],
   "trigger": [
-    {
-      "asmrtrigger100": {
-        "href": "https://youtube.com/watch?v=VrKEfujpeoU",
-        "thumbnail": "https://i.ytimg.com/vi/VrKEfujpeoU/hq720.jpg",
-        "title": "ASMR~ 100 triggers in 1:28"
-      }
-    },
-    {
-      "asmrtriggernasuaorelha": {
-        "href": "https://youtube.com/watch?v=zlQck2JDHao",
-        "thumbnail": "https://i.ytimg.com/vi/zlQck2JDHao/hq2.jpg",
-        "title": "ASMR: DESCAMANDO SUAS ORELHAS  *ear to ear"
-      }
-    },
-    {
-      "asmrtriggerdevagar": {
-        "href": "https://youtube.com/watch?v=BMLXhxk8b3c",
-        "thumbnail": "https://i.ytimg.com/vi/BMLXhxk8b3c/hq720.jpg",
-        "title": "Slow and gentle triggers, ASMR, slow tapping"
-      }
-    },
-    {
-      "asmrtrigger2000": {
-        "href": "https://youtube.com/watch?v=puRDp3CBjTk",
-        "thumbnail": "https://i.ytimg.com/vi/puRDp3CBjTk/hq720.jpg",
-        "title": "ASMR 2000 TRIGGERS IN 12 MINUTES"
-      }
-    },
     {
       "asmrtriggercafuné": {
         "href": "https://youtube.com/watch?v=BGnzJyvNupM",
@@ -314,40 +314,54 @@
       }
     },
     {
+      "asmrtriggerdevagar": {
+        "href": "https://youtube.com/watch?v=775pYRRHqMo",
+        "thumbnail": "https://i.ytimg.com/vi/775pYRRHqMo/hqdefault.jpg",
+        "title": "ASMR: É Devagar, É Devagar Devagarinho 😴 Tudo LEVE, Toque Gentil, Muito SONINHO e SEM Mouth Sounds!"
+      }
+    },
+    {
+      "asmrtriggerrecordemundial": {
+        "href": "https://youtube.com/watch?v=q534VVG8B8I",
+        "thumbnail": "https://i.ytimg.com/vi/q534VVG8B8I/hq720.jpg",
+        "title": "ASMR 100 TRIGGERS IN 2:58 - WORLD RECORD"
+      }
+    },
+    {
       "asmrtrigger1000": {
-        "href": "https://youtube.com/watch?v=3HY8gFJnl-A",
-        "thumbnail": "https://i.ytimg.com/vi/3HY8gFJnl-A/hq720.jpg",
-        "title": "ASMR 1000 Triggers for Sleep 3Hr (No Talking)"
+        "href": "https://youtube.com/watch?v=2jEO0UerF7g",
+        "thumbnail": "https://i.ytimg.com/vi/2jEO0UerF7g/hqdefault.jpg",
+        "title": "ASMR 1000 Triggers in 10 minutes!"
+      }
+    },
+    {
+      "asmrtrigger100": {
+        "href": "https://youtube.com/watch?v=VhowSyldPVQ",
+        "thumbnail": "https://i.ytimg.com/vi/VhowSyldPVQ/hq720.jpg",
+        "title": "ASMR | 100 Fast and Aggressive Triggers: Salt & Pepper, Pay Attention, Hand Sounds, & More!! (100k!)"
       }
     }
   ],
   "notalking": [
     {
+      "asmrnotalkingmassagemnascostas": {
+        "href": "https://youtube.com/watch?v=R5XT8_voNPE",
+        "thumbnail": "https://i.ytimg.com/vi/R5XT8_voNPE/hq2.jpg",
+        "title": "[ASMR] Stunning Seated  Neck & Shoulder Massage [No talking] [No Music]"
+      }
+    },
+    {
       "asmrnotalkingagradaveis": {
+        "href": "https://youtube.com/watch?v=_TeoeXWxvZI",
+        "thumbnail": "https://i.ytimg.com/vi/_TeoeXWxvZI/hq720.jpg",
+        "title": "ASMR Sleep Time - NO TALKING Triggers for Sleep & Relaxation (Scratching, Tapping, Crinkling)"
+      }
+    },
+    {
+      "asmrnotalkingnotalking": {
         "href": "https://youtube.com/watch?v=G0o4JUNSeLw",
         "thumbnail": "https://i.ytimg.com/vi/G0o4JUNSeLw/hq720.jpg",
         "title": "ASMR Hypnotic Triggers 2 Hr (No Talking)"
-      }
-    },
-    {
-      "asmrnotalkingretirandocravos": {
-        "href": "https://youtube.com/watch?v=kKAIhQ3cbhY",
-        "thumbnail": "https://i.ytimg.com/vi/kKAIhQ3cbhY/hq720.jpg",
-        "title": "Removendo Cravos  ASMR  Vídeos Satisfatórios & Relaxantes #5"
-      }
-    },
-    {
-      "asmrnotalkingsabonete": {
-        "href": "https://youtube.com/watch?v=JoRxtqYm0TU",
-        "thumbnail": "https://i.ytimg.com/vi/JoRxtqYm0TU/hq720.jpg",
-        "title": "ASMR SOAP SOUNDS  | SONS DE SABONETE - SUPER RELAXANTE (NO TALKING)"
-      }
-    },
-    {
-      "asmrnotalkingslimedeágua": {
-        "href": "https://youtube.com/watch?v=BRkDQDhK6QI",
-        "thumbnail": "https://i.ytimg.com/vi/BRkDQDhK6QI/hq720.jpg",
-        "title": "JIGGLY WATER SLIME l RELAXING ASMR Compilation"
       }
     },
     {
@@ -358,54 +372,33 @@
       }
     },
     {
-      "asmrnotalkingrelaxante": {
-        "href": "https://youtube.com/watch?v=mA8Xt18o7xY",
-        "thumbnail": "https://i.ytimg.com/vi/mA8Xt18o7xY/hq720.jpg",
-        "title": "ASMR BEST TRIGGERS OVER 3 HOURS (NO TALKING) FOR DEEP SLEEP, RELAX OR CONCENTRATION IN STUDY"
+      "asmrnotalkingretirandocravos": {
+        "href": "https://youtube.com/watch?v=kKAIhQ3cbhY",
+        "thumbnail": "https://i.ytimg.com/vi/kKAIhQ3cbhY/hq720.jpg",
+        "title": "Removendo Cravos  ASMR  Vídeos Satisfatórios & Relaxantes #5"
       }
     },
     {
-      "asmrnotalkingdeagua": {
-        "href": "https://youtube.com/watch?v=LwJUHM93dLk",
-        "thumbnail": "https://i.ytimg.com/vi/LwJUHM93dLk/hq720.jpg",
-        "title": "ASMR WATER Pouring Liquid & Glass 💦NO TALKING for SLEEP 😴"
+      "asmrnotalkingslimedeágua": {
+        "href": "https://youtube.com/watch?v=BRkDQDhK6QI",
+        "thumbnail": "https://i.ytimg.com/vi/BRkDQDhK6QI/hq720.jpg",
+        "title": "JIGGLY WATER SLIME l RELAXING ASMR Compilation"
       }
     },
     {
-      "asmrnotalkingnotalking": {
-        "href": "https://youtube.com/watch?v=Yk_vg_a35Vw",
-        "thumbnail": "https://i.ytimg.com/vi/Yk_vg_a35Vw/hq720.jpg",
-        "title": "ASMR No Talking 💞 Taking Care of You + Layered Sounds"
-      }
-    },
-    {
-      "asmrnotalkingnomusic": {
-        "href": "https://youtube.com/watch?v=Y-PaHjuf9fE",
-        "thumbnail": "https://i.ytimg.com/vi/Y-PaHjuf9fE/hq720.jpg",
-        "title": "So Satisfying ASMR video compilation (No Music Added) RELAXING"
-      }
-    },
-    {
-      "asmrnotalkingmassagemnocerebro": {
-        "href": "https://youtube.com/watch?v=Xk5kcle2IYQ",
-        "thumbnail": "https://i.ytimg.com/vi/Xk5kcle2IYQ/hq720.jpg",
-        "title": "ASMR 19 Brain Melting Massage Triggers (No Talking)"
+      "asmrnotalkingcompilado": {
+        "href": "https://youtube.com/watch?v=jx6CsTSQ_2I",
+        "thumbnail": "https://i.ytimg.com/vi/jx6CsTSQ_2I/hq720.jpg",
+        "title": "ASMR 101 Triggers for the New Decade | Best of 2019 Tingle Compilation [No Talking]"
       }
     }
   ],
   "massagem": [
     {
-      "asmrmassagempersonalattention": {
-        "href": "https://youtube.com/watch?v=cQAmvVHkti0",
-        "thumbnail": "https://i.ytimg.com/vi/cQAmvVHkti0/hq720.jpg",
-        "title": "ASMR Face Massage with Close Inaudible Whispering😴 (Skincare, SPA, Personal Attention, 4K)"
-      }
-    },
-    {
-      "asmrmassagemmassagemrelaxante": {
-        "href": "https://youtube.com/watch?v=0DyPHTeIdts",
-        "thumbnail": "https://i.ytimg.com/vi/0DyPHTeIdts/hq720.jpg",
-        "title": "ASMR de massagem relaxante"
+      "asmrmassagemnopescoço": {
+        "href": "https://youtube.com/watch?v=WMZyIlQdMLM",
+        "thumbnail": "https://i.ytimg.com/vi/WMZyIlQdMLM/hq720.jpg",
+        "title": "[ASMR] Massagem intensa no seu pescoço e ombros | Personal Attention e Scalp Massage"
       }
     },
     {
@@ -416,24 +409,17 @@
       }
     },
     {
-      "asmrmassagemmassagemnascostas": {
-        "href": "https://youtube.com/watch?v=d5uYhoeL_Xw",
-        "thumbnail": "https://i.ytimg.com/vi/d5uYhoeL_Xw/hq720.jpg",
-        "title": "ASMR de massagem para dor nas costas"
+      "asmrmassagemmassagemnocerebro": {
+        "href": "https://youtube.com/watch?v=EjmSbaYmBNc",
+        "thumbnail": "https://i.ytimg.com/vi/EjmSbaYmBNc/hqdefault.jpg",
+        "title": "ASMR Massagem no seu cérebro | Você sentirá arrepios e possivelmente sono! 🎧BINAURAL👂"
       }
     },
     {
-      "asmrmassagemquiropraxia": {
-        "href": "https://youtube.com/watch?v=xjm2KLbXCfc",
-        "thumbnail": "https://i.ytimg.com/vi/xjm2KLbXCfc/hq2.jpg",
-        "title": "QUIROPRAXIA E MASSAGEM PARA AJUSTAR A COLUNA - ASMR Chiropractic and massage"
-      }
-    },
-    {
-      "asmrmassagemnosbraços": {
-        "href": "https://youtube.com/watch?v=2gT9W-bh8bU",
-        "thumbnail": "https://i.ytimg.com/vi/2gT9W-bh8bU/hqdefault.jpg",
-        "title": "ASMR: MASSAGEM NO BRAÇO COM CREME, PINCEL E ESFOLIAÇÃO | Gatilhos Para Dormir | Fala Suave, Baixinha"
+      "asmrmassagemcourocabeludo": {
+        "href": "https://youtube.com/watch?v=7wFsY2vliEE",
+        "thumbnail": "https://i.ytimg.com/vi/7wFsY2vliEE/hq720.jpg",
+        "title": "ASMR POP: GENTLE MASSAGE ON HAIRY LEATHER"
       }
     },
     {
@@ -444,40 +430,33 @@
       }
     },
     {
-      "asmrmassagemnacabeça": {
-        "href": "https://youtube.com/watch?v=FtKkpfuy_X8",
-        "thumbnail": "https://i.ytimg.com/vi/FtKkpfuy_X8/hq720.jpg",
-        "title": "ASMR: VIRTUAL MASSAGE IN YOUR HEAD | SCALP MASSAGE"
-      }
-    },
-    {
-      "asmrmassagemnopescoço": {
-        "href": "https://youtube.com/watch?v=WMZyIlQdMLM",
-        "thumbnail": "https://i.ytimg.com/vi/WMZyIlQdMLM/hq720.jpg",
-        "title": "[ASMR] Massagem intensa no seu pescoço e ombros | Personal Attention e Scalp Massage"
-      }
-    },
-    {
-      "asmrmassagemabraço": {
-        "href": "https://youtube.com/watch?v=gGzXVcoBANY",
-        "thumbnail": "https://i.ytimg.com/vi/gGzXVcoBANY/hq720.jpg",
-        "title": "ASMR MASSAGEM AVANÇADA PARA RELAXAR"
+      "asmrmassagemnosbraços": {
+        "href": "https://youtube.com/watch?v=2gT9W-bh8bU",
+        "thumbnail": "https://i.ytimg.com/vi/2gT9W-bh8bU/hqdefault.jpg",
+        "title": "ASMR: MASSAGEM NO BRAÇO COM CREME, PINCEL E ESFOLIAÇÃO | Gatilhos Para Dormir | Fala Suave, Baixinha"
       }
     }
   ],
   "videossatisfatorios": [
     {
-      "asmrvideossatisfatoriossabonete": {
-        "href": "https://youtube.com/watch?v=d8-jUio4Sh0",
-        "thumbnail": "https://i.ytimg.com/vi/d8-jUio4Sh0/hq720.jpg",
-        "title": "Soap Cutting ASMR | Satisfying & Relaxing Videos #167"
+      "asmrvideossatisfatorioscompilado": {
+        "href": "https://youtube.com/watch?v=3clqk2U3T9Y",
+        "thumbnail": "https://i.ytimg.com/vi/3clqk2U3T9Y/hq720.jpg",
+        "title": "Very Satisfying and Relaxing Compilation 148 Kinetic Sand ASMR"
       }
     },
     {
-      "asmrvideossatisfatorioscompilado": {
-        "href": "https://youtube.com/watch?v=5Z-HgL8FZeo",
-        "thumbnail": "https://i.ytimg.com/vi/5Z-HgL8FZeo/hq720.jpg",
-        "title": "1 HOUR Soap Carving Cutting l RELAXING ASMR Compilation"
+      "asmrvideossatisfatoriosprensahidraulica": {
+        "href": "https://youtube.com/watch?v=q9BtYEnrkg4",
+        "thumbnail": "https://i.ytimg.com/vi/q9BtYEnrkg4/hq720.jpg",
+        "title": "Los 100 mejores momentos de la prensa hidráulica | Colección  satisfactoria de aplastamientos"
+      }
+    },
+    {
+      "asmrvideossatisfatoriosefeitodominó": {
+        "href": "https://youtube.com/watch?v=bUl295oyeIc",
+        "thumbnail": "https://i.ytimg.com/vi/bUl295oyeIc/hq720.jpg",
+        "title": "30 Minutes of DOMINOES FALLING! - Most Satisfying ASMR Compilation"
       }
     },
     {
@@ -488,40 +467,61 @@
       }
     },
     {
-      "asmrvideossatisfatoriosabraço": {
+      "asmrvideossatisfatoriosslime": {
+        "href": "https://youtube.com/watch?v=ctBVV_yvdPM",
+        "thumbnail": "https://i.ytimg.com/vi/ctBVV_yvdPM/hq720.jpg",
+        "title": "Satisfying & Relaxing Slime Videos #98 (Slime ASMR)"
+      }
+    },
+    {
+      "asmrvideossatisfatoriosbalas": {
+        "href": "https://youtube.com/watch?v=rj7eLHIT4PE",
+        "thumbnail": "https://i.ytimg.com/vi/rj7eLHIT4PE/hq720.jpg",
+        "title": "ASMR HONEYCOMB! (eating sounds)"
+      }
+    },
+    {
+      "asmrvideossatisfatoriosretirandocravos": {
         "href": "https://youtube.com/watch?v=kKAIhQ3cbhY",
         "thumbnail": "https://i.ytimg.com/vi/kKAIhQ3cbhY/hq720.jpg",
         "title": "Removendo Cravos  ASMR  Vídeos Satisfatórios & Relaxantes #5"
       }
     },
     {
-      "asmrvideossatisfatoriosslime": {
-        "href": "https://youtube.com/watch?v=AjYc7NlPjts",
-        "thumbnail": "https://i.ytimg.com/vi/AjYc7NlPjts/hq720.jpg",
-        "title": "Satisfying Slime ASMR 2020 | Relaxing Slime Videos | Most Oddly Satisfying Video 2020"
-      }
-    },
-    {
-      "asmrvideossatisfatoriosbalas": {
-        "href": "https://youtube.com/watch?v=mkvKJN-xCoE",
-        "thumbnail": "https://i.ytimg.com/vi/mkvKJN-xCoE/hq720.jpg",
-        "title": "[Candy Making ASMR ] sugar slime TATA of BTS \"V\" making"
-      }
-    },
-    {
-      "asmrvideossatisfatoriosefeitodominóduplo": {
-        "href": "https://youtube.com/watch?v=EI_V16TZmII",
-        "thumbnail": "https://i.ytimg.com/vi/EI_V16TZmII/hq720.jpg",
-        "title": "50 BRICKS DOUBLE DOMINO EFFECT"
+      "asmrvideossatisfatoriossabonete": {
+        "href": "https://youtube.com/watch?v=PoVj3qN287U",
+        "thumbnail": "https://i.ytimg.com/vi/PoVj3qN287U/hq720.jpg",
+        "title": "Vídeos satisfatórios asmr sabonete!asmr sabonete quebrando."
       }
     }
   ],
   "cortando": [
     {
-      "asmrcortandobalas": {
-        "href": "https://youtube.com/watch?v=XgRnPbKA7ug",
-        "thumbnail": "https://i.ytimg.com/vi/XgRnPbKA7ug/hq720.jpg",
-        "title": "Ultra Fast RAW Barbershop Sounds 💈ASMR💈✄"
+      "asmrcortando": {
+        "href": "https://youtube.com/watch?v=Fo36NG1Oygs",
+        "thumbnail": "https://i.ytimg.com/vi/Fo36NG1Oygs/hq720.jpg",
+        "title": "Soap Cutting ASMR ! Relaxing Sounds ! Satisfying Video #26"
+      }
+    },
+    {
+      "asmrcortandoareiasintética": {
+        "href": "https://youtube.com/watch?v=27xbAhdxrg4",
+        "thumbnail": "https://i.ytimg.com/vi/27xbAhdxrg4/hqdefault.jpg",
+        "title": "Asmr com areia cinética"
+      }
+    },
+    {
+      "asmrcortandosabonete": {
+        "href": "https://youtube.com/watch?v=-Um8dZD7E34",
+        "thumbnail": "https://i.ytimg.com/vi/-Um8dZD7E34/hq720.jpg",
+        "title": "Soap Cutting ASMR ! Relaxing Sounds ! Satisfying Video #92"
+      }
+    },
+    {
+      "asmrcortandoaloevera": {
+        "href": "https://youtube.com/watch?v=3lJwY5p_Cdo",
+        "thumbnail": "https://i.ytimg.com/vi/3lJwY5p_Cdo/hq720.jpg",
+        "title": "ASMR CUTTING ALOE VERA (RELAXING SOUNDS)"
       }
     },
     {
@@ -536,20 +536,6 @@
         "href": "https://youtube.com/watch?v=ODI4wjhRM6A",
         "thumbnail": "https://i.ytimg.com/vi/ODI4wjhRM6A/hqdefault.jpg",
         "title": "ASMR - CORTANDO AS UNHAS DA FETA"
-      }
-    },
-    {
-      "asmrcortandobolo": {
-        "href": "https://youtube.com/watch?v=2_0ULfnb-Sg",
-        "thumbnail": "https://i.ytimg.com/vi/2_0ULfnb-Sg/hq720.jpg",
-        "title": "ASMR Brasil Bolo de Chocolate Alpino | Shh Escute | **COM FALAS"
-      }
-    },
-    {
-      "asmrcortando": {
-        "href": "https://youtube.com/watch?v=Fo36NG1Oygs",
-        "thumbnail": "https://i.ytimg.com/vi/Fo36NG1Oygs/hq720.jpg",
-        "title": "Soap Cutting ASMR ! Relaxing Sounds ! Satisfying Video #26"
       }
     }
   ]

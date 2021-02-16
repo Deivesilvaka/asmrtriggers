@@ -87,8 +87,8 @@ module.exports = {
                 "intent":"sale",
                 "payer": { "payment_method": "paypal" },
                 "redirect_urls": {
-                    "return_url": `http://192.168.100.45:${process.env.PORT || 3000}/success`,
-                    "cancel_url": `http://192.168.100.45:${process.env.PORT || 3000}/cancel`
+                    "return_url": `${links.production}/success`,
+                    "cancel_url": `${links.production}/cancel`
                 },
                 "transactions": [{
                     "item_list": { "items": cart },
