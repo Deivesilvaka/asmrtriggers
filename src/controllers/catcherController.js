@@ -40,7 +40,6 @@ module.exports = {
 
         const contentData = await yts(`asmr ${content}`)
 
-        //Load Balancer ( remove ilegal contents )
         const familyFriendlyContent = await loadBalancer(contentData)
 
         return res.json(contentData)
