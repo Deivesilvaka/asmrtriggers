@@ -9,7 +9,7 @@ const routes = require("./routes")
 const findNewContentes = require("./src/controllers/crawler")
 
 setInterval(async() => {
-    //await findNewContentes()
+    await findNewContentes()
 }, 50000)
 
 app.use(cors())
