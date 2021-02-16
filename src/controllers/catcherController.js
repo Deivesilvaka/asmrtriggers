@@ -42,7 +42,7 @@ module.exports = {
 
         const familyFriendlyContent = await loadBalancer(contentData)
 
-        return res.json(contentData)
+        return res.json(familyFriendlyContent)
     },
 
     async recomendacoes(req, res) {

@@ -22,7 +22,7 @@ async function loadBalancer(videos) {
     })
 
     const Object = {
-        all: datasFamilyFriendly
+        videos: datasFamilyFriendly
     }
 
     return Object
